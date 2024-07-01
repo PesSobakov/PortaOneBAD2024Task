@@ -1,7 +1,7 @@
 ﻿//Код на мові С#
 //Використовувався фреймворк .NET 8 з включеним native AOT publish
 //У мене цей код виконувався в середньому 5 секунд
-//Посилання на репозиторій 
+//Посилання на репозиторій https://github.com/PesSobakov/PortaOneBAD2024Task
 namespace PortaOneBAD2024Task
 {
     internal class Program
