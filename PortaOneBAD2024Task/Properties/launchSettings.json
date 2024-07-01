@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PortaOneBAD2024Task": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\10m.txt\"\r\n\"D:\\10m res.txt\""
+    }
+  }
+}
